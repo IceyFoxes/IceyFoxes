@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin 👋
 
-I'm a Computer Science student at NUS and a tutor for CS2103T Software Engineering. Next semester I'm on exchange at UNC Chapel Hill.
+I'm a Computer Science student at NUS. Next semester I'm on exchange at UNC Chapel Hill.
 
 **Portfolio:** [kevinzli.com](https://kevinzli.com), a city you can fly through.
 
