@@ -6,7 +6,7 @@ I'm a Computer Science student at NUS. Next semester I'm on exchange at UNC Chap
 
 Some things I've built:
 
-- **[UniPlans](https://uniplans.net):** a module planner for NUS students, built with [Yuchen](https://github.com/songqiaoyuchen/uniplans).
+- **[UniPlans](https://uniplans.net):** a module planner for NUS students, built with [Yuchen](https://songqiaoyuchen.github.io/).
 - **[Historical Adventures](https://historical-adventures-ten.vercel.app):** a history game for classrooms. Teachers upload their sources, and students play through a small world built from them. Built with my team in CS3216 ([code](https://github.com/damiancxliew/CS3216_Assignment3)).
 - **[ClipAsk](https://github.com/IceyFoxes/ClipAsk):** select part of your screen and ask ChatGPT about it. A Windows app on the [Microsoft Store](https://apps.microsoft.com/detail/9P4RK9WV82LR).
 
